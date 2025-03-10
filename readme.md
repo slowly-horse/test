@@ -1,0 +1,1 @@
+add a read me to clarify the project manual 
